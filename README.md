@@ -1,4 +1,4 @@
-A Powerline segment for showing pyenv version
+A Powerline segment for showing pyenv and virtualenv(used by pipenv) version
 
 ![Screenshot](./screenshot.png "Screenshot")
 

@@ -17,7 +17,7 @@ DESCRIPTION = "A Powerline segment for showing pyenv version"
 URL = "https://github.com/15cm/powerline-pyenv"
 EMAIL = "i@15cm.net"
 AUTHOR = "Sinkerine"
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 
 # What packages are required for this module to be executed?
 REQUIRED = ["powerline-status"]

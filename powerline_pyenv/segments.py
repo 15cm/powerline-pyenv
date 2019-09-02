@@ -14,6 +14,6 @@ def pyenv(pl, segment_info):
             "name": "pyenv_version",
             "type": "string",
             "contents": " {}".format(pyenv_version),
-            "highlight_groups": ["pyenv_version"],
+            "highlight_groups": ["pyenv:version"],
         }
     ]

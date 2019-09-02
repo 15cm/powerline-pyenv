@@ -1,5 +1,7 @@
 A Powerline segment for showing pyenv version
 
+![Screenshot](./screenshot.png "Screenshot")
+
 # Installation
 ```
 pip install powerline-pyenv

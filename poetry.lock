@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "The ultimate statusline/prompt utility."
+name = "powerline-status"
+optional = false
+python-versions = "*"
+version = "2.7"
+
+[package.extras]
+docs = ["sphinx", "sphinx-rtd-theme"]
+
+[metadata]
+content-hash = "c64258654d716cab91d600e41118d26663245e370f43b537e5c8d719171e8ab2"
+python-versions = "^2.7 || ^3"
+
+[metadata.hashes]
+powerline-status = ["8c7e7da45beb2332bc8226b166b732ef70db2cb0a1f3f0fdc3c539115522ecb6"]
